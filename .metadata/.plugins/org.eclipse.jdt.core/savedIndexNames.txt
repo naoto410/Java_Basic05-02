@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/Users/yamashitanaoto/Desktop/ep.Java_Basic/05/2_確認問題/02/.metadata/.plugins/org.eclipse.jdt.core
+3162269900.index
+1865797976.index
+2293976318.index
